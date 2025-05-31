@@ -52,7 +52,7 @@ However, we compiled a list of **recommended high-accuracy components** for bett
 
 For detailed methodology, experimental setup, test plans, formulas, and scientific background, see:
 
-- 📌 [Project Poster](./project-poster.pdf)  
-- 📘 [Project Portfolio](./project-portfolio.pdf)
+- 📌 [Project Poster](https://github.com/DavidGirges1/Pests-Watch/blob/main/Pests-Watch%20Full%20Size%20Poster.pdf)  
+- 📘 [Project Portfolio](https://github.com/DavidGirges1/Pests-Watch/blob/main/Pests-Watch%20Portfolio.pdf)
 
 > We sincerely recommend checking out these documents for a deeper technical understanding.
