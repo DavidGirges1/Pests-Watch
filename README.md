@@ -55,4 +55,5 @@ For detailed methodology, experimental setup, test plans, formulas, and scientif
 - 📌 [Project Poster](https://github.com/DavidGirges1/Pests-Watch/blob/main/Pests-Watch%20Full%20Size%20Poster.pdf)  
 - 📘 [Project Portfolio](https://github.com/DavidGirges1/Pests-Watch/blob/main/Pests-Watch%20Portfolio.pdf)
 
-> We sincerely recommend checking out these documents for a deeper technical understanding.
+© 2025 David E., Girgies Abdallah, Ramadan Mohammed, Rizq. All rights reserved.
+
